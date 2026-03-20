@@ -9,7 +9,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.time.Duration;
 
-public class androidDemo_UDID1 {
+public class androidAppiumTest1 {
     UiAutomator2Options options;
     AndroidDriver driver;
 
